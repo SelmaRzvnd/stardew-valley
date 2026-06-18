@@ -1,6 +1,7 @@
 # Stardew Valley — Advanced Programming Project
 
 A multiplayer farming simulation game inspired by Stardew Valley, built in Java using the MVC architecture pattern. Developed as a group project.
+[![Gameplay Cover](./cover.png)](./GamePlay.MP4)
 
 ---
 
